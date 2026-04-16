@@ -1,0 +1,6 @@
+[INFO] Starting file processing: input.txt
+[DEBUG] Reading line 1: Hello
+[DEBUG] Reading line 2: Testing file processing
+[INFO] File processed successfully. Total lines: 2
+[INFO] Starting file processing: missing.txt
+[ERROR] File not found: missing.txt
